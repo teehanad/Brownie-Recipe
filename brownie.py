@@ -36,7 +36,7 @@ def main():
     print('-----------------------------------------------------------------')
     print("Siv in")
     print('-----------------------------------------------------------------')
-    print(str(flour) + " cup flower")
+    print(str(flour) + " cup flower (Gluten Free)")
     print(str(cocoa) + " cup of cocoa powder")
     print(str(salt) + " tsp salt")
     print('-----------------------------------------------------------------')
