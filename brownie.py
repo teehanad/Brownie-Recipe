@@ -15,7 +15,7 @@ def main():
     os.system('clear')
     printLogo()
     print('-----------------------------------------------------------------')
-    inputText = int(input("How many batches are we making today?: "))
+    inputText = float(input("How many batches are we making today?: "))
     print('-----------------------------------------------------------------')
     butter = (3/4)*inputText
     sugar = ((1/4)+1)*inputText
